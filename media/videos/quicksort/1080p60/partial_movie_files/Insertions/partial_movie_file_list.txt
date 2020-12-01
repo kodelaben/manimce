@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1909262289_2959719147_2067388446.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_2560719473_2617976469.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_2920590103_1941405241.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_1230425899_2478921606.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_3129294523_2874555074.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_478893293_2617976469.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_2372029593_795018239.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_85738660_2617976469.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_3190329961_101493213.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_851259965_4247209593.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/1080p60/partial_movie_files/Insertions/1377668583_861823899_119766725.mp4'
