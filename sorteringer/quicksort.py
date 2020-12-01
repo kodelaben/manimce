@@ -6,8 +6,8 @@ class Insertions(Scene):
         def sortering(array):
             if len(array) <= 1:
                 if len(array) == 1:
-                    self.bring_to_front(gruppe[0][0])
-                    self.play(ApplyMethod(gruppe[0][0].set_color, GREEN))
+                    self.bring_to_front(gruppe[array[0]][0])
+                    self.play(ApplyMethod(gruppe[array[0]][0].set_color, GREEN))
                 return
             pivot = array[-1]
             self.play(ApplyMethod(gruppe[pivot][0].shift, DOWN * 2.5))
