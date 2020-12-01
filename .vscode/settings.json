@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "mce\\Scripts\\python.exe",
+    "python.linting.banditEnabled": false
+}

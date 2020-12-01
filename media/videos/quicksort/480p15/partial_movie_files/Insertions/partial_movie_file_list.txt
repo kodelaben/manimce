@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/480p15/partial_movie_files/Insertions/628362505_2920590103_3411265112.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/480p15/partial_movie_files/Insertions/628362505_1383542791_2345675146.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/480p15/partial_movie_files/Insertions/628362505_2920590103_3777211770.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/480p15/partial_movie_files/Insertions/628362505_3897301773_2908322608.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/480p15/partial_movie_files/Insertions/628362505_736815803_2908322608.mp4'
+file 'file:C:/Users/henrln14/Documents/manim_ce/media/videos/quicksort/480p15/partial_movie_files/Insertions/628362505_3472925702_4217160917.mp4'

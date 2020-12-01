@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Windows/System32/manim_ce/media/videos/test/1080p60/partial_movie_files/Test/1909262289_3102853260_2240092063.mp4'
+file 'file:C:/Windows/System32/manim_ce/media/videos/test/1080p60/partial_movie_files/Test/1377668583_2959719147_431802854.mp4'
+file 'file:C:/Windows/System32/manim_ce/media/videos/test/1080p60/partial_movie_files/Test/1377668583_2379398456_2240092063.mp4'
+file 'file:C:/Windows/System32/manim_ce/media/videos/test/1080p60/partial_movie_files/Test/1377668583_2959719147_223132457.mp4'
+file 'file:C:/Windows/System32/manim_ce/media/videos/test/1080p60/partial_movie_files/Test/1377668583_3326483322_3269984815.mp4'
+file 'file:C:/Windows/System32/manim_ce/media/videos/test/1080p60/partial_movie_files/Test/1377668583_2959719147_3927260716.mp4'
+file 'file:C:/Windows/System32/manim_ce/media/videos/test/1080p60/partial_movie_files/Test/1377668583_3296696200_3109274313.mp4'
+file 'file:C:/Windows/System32/manim_ce/media/videos/test/1080p60/partial_movie_files/Test/1377668583_2959719147_3817029059.mp4'
