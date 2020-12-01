@@ -1,4 +1,4 @@
-from manim.manim import *
+from manim import *
 
 class Insertions(Scene):
     def construct(self):
