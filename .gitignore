@@ -2,4 +2,4 @@
 *.env
 *.vscode
 sorteringer/__pycache__/quicksort.cpython-39.pyc
-media/videos/quicksort/480p15/partial_movie_files/Insertions/partial_movie_file_list.txt
+*partial_movie_file_list.txt
