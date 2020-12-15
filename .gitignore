@@ -3,3 +3,4 @@
 *.vscode
 sorteringer/__pycache__/quicksort.cpython-39.pyc
 *partial_movie_file_list.txt
+*env
